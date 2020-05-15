@@ -23,7 +23,9 @@ Los resultados se entregan de la siguiente forma:
   - Óptimo conocido
   - Resultado obtenido con el algoritmo
   
-  # EJEMPLO
+# EJEMPLO
   0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+  
   optimo: 3186
+  
   calculado: 2825
