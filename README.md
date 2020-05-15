@@ -11,5 +11,7 @@ $ make run
 EJEMPLO (todo en lineas separadas):
 
 $ make
+
 $ make run
+
 $ hp2.txt
