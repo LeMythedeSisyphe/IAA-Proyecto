@@ -8,7 +8,7 @@ $ make run
 
   ingresar el nombre del archivo a leer
   
-## EJEMPLO (todo en lineas separadas):
+### EJEMPLO (todo en lineas separadas):
 
 $ make
 
@@ -23,7 +23,7 @@ Los resultados se entregan de la siguiente forma:
   - Óptimo conocido
   - Resultado obtenido con el algoritmo
   
-# EJEMPLO
+### EJEMPLO
   0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
   
   optimo: 3186
