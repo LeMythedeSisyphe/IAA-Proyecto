@@ -1,20 +1,18 @@
 ﻿# IAA-Proyecto
 
+NOTA: Las semillas ocupadas en la entrega 2 fueron: 147, 258, 369, 123, 456, 789.
+
 # Para correr el programa ejecutar:
 
 $ make
 
-$ make run
-
-  ingresar el nombre del archivo a leer
+$ make run f=file.extension s=number_seed
   
 ### EJEMPLO (todo en lineas separadas):
 
 $ make
 
-$ make run
-
-$ hp2.txt
+$ make run f=hp2.txt s=1234
 
 # Resultados
 Los resultados se entregan de la siguiente forma:
@@ -24,8 +22,8 @@ Los resultados se entregan de la siguiente forma:
   - Resultado obtenido con el algoritmo
   
 ### EJEMPLO
-  0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+  0 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1
   
   optimo: 3186
   
-  calculado: 2825
+  calculado: 3035

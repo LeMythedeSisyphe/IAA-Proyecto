@@ -1,8 +1,6 @@
 program:
-	g++ -o program informe1.cpp
+	g++ -o program entrega2.cpp
 
 .PHONY: run
 run: program
-	./program
-clean:
-	rm ./program.exe
+	./program $f $s
