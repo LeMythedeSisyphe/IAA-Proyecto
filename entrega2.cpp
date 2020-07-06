@@ -193,11 +193,10 @@ int main(int argc, char** argv){
         t++;
     }
     j=0;
-    cout << "Sbest: ";
+    cout << "X: ";
     while(j<N){
         cout << Sbest[j] << ' ';
         j++;
     }
-    cout << endl << "optimo: " << optimo << endl;
-    cout << "calculado: " <<  Sbest_value << endl;
+    cout << endl << "f: " <<  Sbest_value << endl;
 }

@@ -8,7 +8,7 @@ $ make
 
 $ make run f=file.extension s=number_seed
   
-### EJEMPLO (todo en lineas separadas):
+### EJEMPLO:
 
 $ make
 
@@ -18,12 +18,9 @@ $ make run f=hp2.txt s=1234
 Los resultados se entregan de la siguiente forma:
  
   - Arreglo de resultados (elementos que se llevan en la mochila y los que no)
-  - Óptimo conocido
   - Resultado obtenido con el algoritmo
   
 ### EJEMPLO
-  0 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1
+  X: 0 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1
   
-  optimo: 3186
-  
-  calculado: 3035
+  f: 3035
