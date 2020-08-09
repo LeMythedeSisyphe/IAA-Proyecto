@@ -1,5 +1,5 @@
 program:
-	g++ -o program entrega2.cpp
+	g++ -o program entrega3.cpp
 
 .PHONY: run
 run: program
