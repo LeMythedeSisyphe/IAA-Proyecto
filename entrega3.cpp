@@ -249,12 +249,9 @@ int main(int argc, char** argv){
             }
             writefile << "\n" << f_obj(G, X_global, N) << "\n";
             writefile.close();
-            /*
             if (f_obj(G, X_global, N)==optimo){
-                cout << "llegue al optimo" << endl;
                 break;
             }
-            */
         }
     }
 
